@@ -1,2 +1,2 @@
 # Neural-Network
-Assignment
+Problem statement: predicting turbine energy yield (TEY) using ambient variables as features.
